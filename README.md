@@ -1,4 +1,4 @@
-# Malawi-News-Classification-Challenge
+# Malawi News Classification Challenge
 
 ## Installation
 **Importing Libraries**</br>
