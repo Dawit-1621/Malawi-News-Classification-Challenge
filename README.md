@@ -17,7 +17,7 @@ List of classes: ['SOCIAL ISSUES', 'EDUCATION', 'RELATIONSHIPS', 'ECONOMY', 'REL
 Files available for download:
 * Train.csv - contains the target. This is the dataset that you will use to train your model.
 * Test.csv- resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your mode.
-SampleSubmission.csv - shows the submission format for this competition, with the ‘ID’ column mirroring that of Test.csv. The order of the rows does not matter, but the names of the IDs must be correct.
+* SampleSubmission.csv - shows the submission format for this competition, with the ‘ID’ column mirroring that of Test.csv. The order of the rows does not matter, but the names of the IDs must be correct.
 
 ## Project Motivation
 
