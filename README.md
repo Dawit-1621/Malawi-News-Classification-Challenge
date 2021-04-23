@@ -1,6 +1,10 @@
 # Malawi News Classification Challenge
 
 ## Installation
+**Installation**</br>
+* pip install numpy
+* pip install scikit-learn
+* pip install imblearn
 **Importing Libraries**</br>
 * numpy
 * pandas
